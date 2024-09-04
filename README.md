@@ -1,4 +1,3 @@
-Sure, here is the content formatted for a GitHub Markdown document:
 
 ```markdown
 # AI Agents with Azure Graph, AKS, and ACA
